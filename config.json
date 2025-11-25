@@ -1,0 +1,14 @@
+{
+  "window_width": 1000,
+  "window_height": 1000,
+  "fps": 144,
+  "background_color": [0, 0, 0],
+  "toothpick_color": [255, 255, 255],
+  "toothpick_length": 20,
+  "toothpick_thickness": 2,
+  "max_generations": 17,
+  "generation_delay": 30,
+  "auto_zoom_enabled": true,
+  "zoom_padding": 50,
+  "zoom_speed": 0.07
+}
